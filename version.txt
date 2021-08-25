@@ -1,1 +1,1 @@
-0.3;optional;IMIU.exe
+0.3;optional;IMIU.exe;Qt5Core.dll;qml/QtQuick/Controls/Button.qml
