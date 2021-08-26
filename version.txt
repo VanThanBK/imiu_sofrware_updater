@@ -1,1 +1,1 @@
-0.3;optional;iMiU.exe;Qt5Core.dll
+0.3;obligatory;iMiU.exe;Qt5Core.dll
